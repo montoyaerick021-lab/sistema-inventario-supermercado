@@ -1,10 +1,5 @@
 # Sistema de Inventario de Supermercado
 
-**Proyecto ACA individual — Programación Orientada a Objetos**
-
-## Descripción
-Aplicación de consola desarrollada en Java para simular el inventario de un pequeño supermercado. Permite registrar productos, consultar todos los productos, calcular el valor total del inventario y buscar productos mediante su código. La información se conserva en memoria mientras el programa está en ejecución.
-
 ## Funcionalidades
 1. Registrar productos con código, nombre, precio, cantidad y categoría.
 2. Mostrar todos los productos y el valor total del inventario.
@@ -21,23 +16,13 @@ Aplicación de consola desarrollada en Java para simular el inventario de un peq
 - Clases y objetos.
 - Atributos privados y encapsulamiento.
 - Constructores, getters y setters.
-- Relación entre `Inventario` y `Producto`.
-- Lista `ArrayList` y recorrido con `for`.
+- Relación entre inventario y productos
+- Lista ArrayList y recorrido con for
 - Arreglo de categorías.
 - Manejo de errores con `try-catch`.
-- Excepción personalizada.
 
 ## Requisitos
 Tener instalado el JDK de Java.
 
-## Cómo ejecutar
-Abre una terminal en la carpeta donde están los archivos y ejecuta:
-
-```bash
-javac *.java
-java Main
-```
-
-## Autor
 Estudiante: Erick fernando montoya peña]  
 Modalidad: Individual
