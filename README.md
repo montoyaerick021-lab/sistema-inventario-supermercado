@@ -39,5 +39,5 @@ java Main
 ```
 
 ## Autor
-Estudiante: [Escribe aquí tu nombre completo]  
+Estudiante: Erick fernando montoya peña]  
 Modalidad: Individual
