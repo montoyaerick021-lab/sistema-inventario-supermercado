@@ -19,10 +19,6 @@
 - Relación entre inventario y productos
 - Lista ArrayList y recorrido con for
 - Arreglo de categorías.
-- Manejo de errores con `try-catch`.
-
-## Requisitos
-Tener instalado el JDK de Java.
 
 Estudiante: Erick fernando montoya peña]  
 Modalidad: Individual
